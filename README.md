@@ -95,5 +95,5 @@ type criteria, a string is returned. However, if `strict_mode` is set to `True`,
 
 This module offers a simplified version of the existing CSV module and provides greater transparency behind the processes
 involved in reading CSV files. CSV is a commonly-used format of exchanging tabular data between spreadsheets and relational
-databases. Understanding the methods that are hidden in the CSV library is therefore an important and valuable skill for
+databases. Understanding the functionalities hidden in the CSV library is therefore an important and valuable skill for
 developers.
