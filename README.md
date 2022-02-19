@@ -2,8 +2,8 @@
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-greensvg)](https://www.python.org/downloads/release/python-390/)
 
-This CSV reader is implemented in Python. It allows to specify a separator, a quote char and
-column titles (or get the first row as titles). 
+This CSV reader is implemented in Python. It allows users to specify a separator, a quote char and
+column titles. 
 
 ## Installation
 
